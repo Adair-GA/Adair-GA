@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin Badge](https://img.shields.io/badge/Adair-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adair-gondan-alonso/)](https://www.linkedin.com/in/adair-gondan-alonso/)
+[![GitHub followers](https://img.shields.io/github/followers/Adair-GA?label=Follow&style=social)](https://github.com/Adair-GA)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adair.ga/)

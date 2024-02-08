@@ -1,18 +1,19 @@
 ### Hi there 👋
 
-** Adair-GA/Adair-GA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola! Me llamo Adair, bienvenido a mi perfil de Github!
 
-Here are some ideas to get you started:
+Soy un estudiante de Ingenieria iformatica en la UPV/EHU, y estudiante de 42. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa mucho el desarrollo de backend y de software de bajo nivel, utilizo Python para mis proyectos generales y Rust y C para cosas más concretas.
+
+Tengo bastante experiencia en uso de APIs, entornos Linux, uso de Docker y Docker-compose, he utilizado Google cloud a lo largo de mi carrera académica, y me interesa mucho la tecnologia y entornos cloud y el mundo del DevOps.
+
+Me gusta contribuir a los proyectos open-source que utilizo y en los que creo que puedo aportar algo, y esto me ha llevado a escribir JavaScript, C++, y demas lenguajes con los que no estaba familiarizado, lo que me ha resultado muy enriquecedor.
+
+---
+
+<!-- ## Proyectos principales: -->
+
 
 [![Linkedin Badge](https://img.shields.io/badge/Adair-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adair-gondan-alonso/)](https://www.linkedin.com/in/adair-gondan-alonso/)
 [![GitHub followers](https://img.shields.io/github/followers/Adair-GA?label=Follow&style=social)](https://github.com/Adair-GA)

@@ -2,7 +2,7 @@
 
 Hola! Me llamo Adair, bienvenido a mi perfil de Github!
 
-Soy un estudiante de Ingenieria iformatica en la UPV/EHU, y estudiante de 42. 
+Soy un estudiante de Ingenieria informatica en la UPV/EHU, y estudiante de 42. 
 
 Me interesa mucho el desarrollo de backend y de software de bajo nivel, utilizo Python para mis proyectos generales y Rust y C para cosas más concretas.
 
